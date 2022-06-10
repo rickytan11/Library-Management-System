@@ -5,6 +5,7 @@ Simple Library Management System created with mostly PHP, MySQL, HTML, CSS , jav
 This is a project that we created because this is university assignment and this is the project that we use to learn more about OOP 
 
 ## Setup
+```
 1.To run this project you only need XAMPP 
 2.You just need to Place it in htdocs where you install XAMPP 
 3.Open XAMPP
@@ -13,3 +14,4 @@ This is a project that we created because this is university assignment and this
 6.Import the SQL file
 7.try to open in your own website using localhost/[file_name]
 8.For the login Username: ricky123 Password: 123ricky
+```
